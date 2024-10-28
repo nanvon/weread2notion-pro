@@ -8,19 +8,19 @@
 
 ## 使用
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > 关注公众号获取教程，后续有更新也会第一时间在公众号里同步。
 
 ![扫码_搜索联合传播样式-标准色版](https://github.com/malinkang/weread2notion/assets/3365208/191900c6-958e-4f9b-908d-a40a54889b5e)
 
 
 ## 群
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > 欢迎加入群讨论。可以讨论使用中遇到的任何问题，也可以讨论Notion使用，后续我也会在群中分享更多Notion自动化工具。微信群失效的话可以添加我的微信malinkang，我拉你入群。
 
 | 微信群 | QQ群 |
 | --- | --- |
-| <div align="center"><img src="https://github.com/malinkang/weread2notion/assets/3365208/f230a01f-bc1a-48dc-95f6-ac7ad0d1ecc5" ></div> | <div align="center"><img src="https://images.malinkang.com/2024/04/b225b17d60670e4a6ff3459bbde80d28.jpg" width="50%"></div> |
+| <div align="center"><img src="https://images.malinkang.com/2024/10/2dfe1f98391e7bd2ee03879e788e5649.jpg" ></div> | <div align="center"><img src="https://images.malinkang.com/2024/10/f6d61b082e78f001cff8ab0a21344fe9.jpeg" width="50%"></div> |
 
 
 ## 捐赠
